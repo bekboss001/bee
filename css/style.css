@@ -1,0 +1,44 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 1;
+	border: 0;
+}
+
+a,
+a:visited {
+	text-decoration: yellow;
+}
+a:hover {
+	text-decoration: purple;
+}
+img {
+	vertical-align: top;
+}
+
+
+.text{
+    color: blue;
+}
+.main{
+    color: blueviolet;
+}
+.mainhead {
+    color: red;
+}
+.main2 {
+    color: violet;
+}
+.content{
+    color: saddlebrown;
+}
+.content_item{
+    color: red;
+}
+.content_text{
+    color: darkgreen;
+}
+div, h2{
+    color: orange;
+}
